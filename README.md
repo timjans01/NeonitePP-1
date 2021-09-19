@@ -31,12 +31,12 @@ _This project was made for fun and it doesn't aim to harm the original game by a
 
 <!-- BUILDING -->
 ## - Building
-• We do **NOT** provide any building or fixing support and it does **NOT** work on latest, However going back 6~7 commits should be enough to have a version that works on old Chapter 2 clients (s12 ~ s15)
+• We do **NOT** provide any building or fixing support and it does **NOT** work on latest, However going back 6~7 commits should be enough to have a version that works on old Chapter 2 clients (s12 ~ s18)
 
 
 <!-- FEATURES -->
 ## - Features
-• Neonite++ features are showcased in this twitter [thread](https://twitter.com/Neonitedev/status/1368926282189316096), also video tutorials can be found [here](https://neonite.dev/tutorials.html).
+• Neonite++ features are showcased in this twitter [thread](https://twitter.com/Neonitedev/status/1368926282189316096).
 
 <!-- DONATING -->
 ## - Donate
